@@ -1,0 +1,5 @@
+PARTE 2:
+
+Esta archivo es correspondiente a la parte 2 del ejercicio evaluable del NF4.
+
+Este documento servirá para hacer un pull request.
